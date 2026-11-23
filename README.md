@@ -14,7 +14,7 @@ Etiquetado de secuencias | CoNLL-2003 | distilbert-base-cased | F1 (seqeval) |
 Seq2seq | SAMSum | t5-small | ROUGE |
 
 ## Cómo ejecutarlo
-- Abrir el notebook en Colab (badge "Open in Colab")
+- Abrir el notebook en Colab
 - Runtime: GPU T4
 - Dependencias: transformers, datasets, evaluate, seqeval, rouge_score
 
