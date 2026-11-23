@@ -8,7 +8,9 @@ Autor: Quelix Xiomara Pérez · www.linkedin.com/in/xiomara-perez-alzate
 Se hizo fine-tuning de modelos Transformer preentrenados (Hugging Face) en tres tipos de problemas de NLP:
 
 Clasificación de secuencias | SST-2 | distilbert-base-uncased | Accuracy / F1 |
+
 Etiquetado de secuencias | CoNLL-2003 | distilbert-base-cased | F1 (seqeval) |
+
 Seq2seq | SAMSum | t5-small | ROUGE |
 
 ## Cómo ejecutarlo
