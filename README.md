@@ -1,6 +1,7 @@
 # Proyecto 2: Fine-Tuning en NLP
 
 Fundamentos de NLP – Universidad de Antioquia
+
 Autor: Quelix Xiomara Pérez · www.linkedin.com/in/xiomara-perez-alzate
 
 ## Descripción
